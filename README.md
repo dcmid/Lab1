@@ -11,7 +11,7 @@ c. A resistor must be used to limit the current through the LED.
 d. I stop perceiving blinking with a period of about 25ms.  
 e. Code can be found [here](./code/blink/blink.ino).
 #### 2. Blink your LED
-Video can be found [here](./media/led_blink.mp4)\.  
+Video can be found [here](./media/blink.mp4)\.  
 Code can be found [here](./code/blink_pin9/blink_pin9.ino)\.  
 ### Part D. Manually Fade LED
 a. The LED does stay lit for the entire tuning range of the potentiometer.
